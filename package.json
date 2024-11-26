@@ -1,0 +1,16 @@
+{
+  "name": "clone-tabnews.com.br",
+  "version": "1.0.0",
+  "description": "Clone do site original tabnews.com.br, afim de estudo e desenvolvimento pessoal na área de programação.",
+  "main": "index.js",
+  "scripts": {
+    "next": "dev"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^13.1.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
